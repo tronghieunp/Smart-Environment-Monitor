@@ -1,6 +1,6 @@
-Smart-Environment-Monitor
+# 🌡️ Smart Environment Monitor (Hệ thống Giám sát Môi trường)
 
-> Dự án IoT: Giám sát nhiệt độ & độ ẩm bằng ESP32 và gửi dữ liệu qua WiFi.
+> Dự án IoT đầu tiên: Giám sát nhiệt độ & độ ẩm bằng ESP32 và gửi dữ liệu qua WiFi.
 
 ## 📝 Giới thiệu (Introduction)
 Đây là dự án sử dụng vi điều khiển **ESP32** kết hợp với cảm biến **DHT22** để đo nhiệt độ và độ ẩm của môi trường. Dữ liệu sau khi thu thập sẽ được đóng gói dưới dạng chuỗi **JSON** và gửi lên Server thông qua giao thức WiFi (HTTP POST).
