@@ -20,7 +20,6 @@
 | Board mạch ESP32 DevKit V1 | 1 | Vi điều khiển chính |
 | Cảm biến DHT22 | 1 | Đo nhiệt độ & độ ẩm |
 | Đèn LED (Đỏ) | 1 | Đèn báo cảnh báo |
-| Điện trở | 1 | 220Ω hoặc 330Ω (cho LED) |
 | Dây cắm (Jumper wires) | Nhiều | Đấu nối |
 
 ## 🔌 Sơ đồ nối dây (Wiring Diagram)
