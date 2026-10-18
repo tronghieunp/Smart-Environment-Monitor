@@ -24,8 +24,8 @@
 | Dây cắm (Jumper wires) | Nhiều | Đấu nối |
 
 ## 🔌 Sơ đồ nối dây (Wiring Diagram)
-*(Hãy chụp ảnh màn hình mạch trên Wokwi của bạn, tải ảnh đó lên GitHub và thay tên file vào đây)*
-![Sơ đồ mạch](circuit.png)
+<img width="665" height="571" alt="image" src="https://github.com/user-attachments/assets/04bff8aa-8f60-4469-8bcb-6edc5210fc8c" />
+
 
 **Chi tiết kết nối:**
 - **DHT22:**
